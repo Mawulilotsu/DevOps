@@ -32,7 +32,7 @@ A production-ready Kubernetes deployment on AWS, leveraging **EKS, Fargate, IAM 
 - CI/CD with **Jenkins & AWS ECR**
 - Terraform for Infrastructure as Code (IaC)
 
-🔗 **[GitHub Repo](#)** | 🔗 **[Live Demo (if available)](#)**
+🔗 **[GitHub Repo](#)** | 🔗 **[Live Demo ](#)**
 
 ---
 
@@ -48,7 +48,7 @@ A **microservices-based e-commerce application** deployed using Kubernetes, Helm
 - **ArgoCD for automated GitOps deployment**
 - Integrated monitoring with **Prometheus & Grafana**
 
-🔗 **[GitHub Repo](#)** | 🔗 **[Live Demo (if available)](#)**
+🔗 **[GitHub Repo](#)** | 🔗 **[Live Demo ](#)**
 
 ---
 
@@ -64,7 +64,7 @@ A complete **CI/CD pipeline** built using **Jenkins, Docker, AWS ECR, and Kubern
 - Automated rollback on failure
 - Nexus as an Artifact Repository for managing build artifacts
 
-🔗 **[GitHub Repo](#)** | 🔗 **[Live Demo (if available)](#)**
+🔗 **[GitHub Repo](#)** | 🔗 **[Live Demo ](#)**
 
 ---
 
@@ -78,7 +78,7 @@ This project automates **AWS infrastructure provisioning** using Terraform, allo
 - Integrated with Jenkins for **Infrastructure as Code (IaC) CI/CD**
 - Deployed and tested on **AWS Cloud**
 
-🔗 **[GitHub Repo](#)** | 🔗 **[Live Demo (if available)](#)**
+🔗 **[GitHub Repo](#)** | 🔗 **[Live Demo ](#)**
 
 ---
 
