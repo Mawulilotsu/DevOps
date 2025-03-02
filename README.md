@@ -48,7 +48,7 @@ A **microservices-based e-commerce application** deployed using Kubernetes, Helm
 - **ArgoCD for automated GitOps deployment**
 - Integrated monitoring with **Prometheus & Grafana**
 
-🔗 **[GitHub Repo](https://github.com/Mawulilotsu/Git-VersionControl)(#)** | 🔗 **[Live Demo ](#)**
+🔗 **[GitHub Repo](#)** | 🔗 **[Live Demo ](#)**
 
 ---
 
